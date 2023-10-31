@@ -1,0 +1,19 @@
+{
+    "list": [
+      {
+        "name": "Scalable Architecture for Automating Machine Learning Model Monitoring",
+        "url": "http://kth.diva-portal.org/smash/get/diva2:1464577/FULLTEXT01.pdf",
+        "desc": "Architecture design for model monitoring using Spark Structure Streaming, Kafka and KFServing"
+      },
+      {
+        "name": "Model Monitoring Framework",
+        "url": "https://github.com/javierdlrm/model-monitoring",
+        "desc": "Framework for monitoring Machine Learning models using Spark Structured Streaming"
+      },
+      {
+        "name": "Model Monitoring Operator",
+        "url": "https://github.com/javierdlrm/model-monitoring-operator",
+        "desc": "Kubernetes operator for ML model monitoring with Spark Structured Streaming, Kafka and the Model Monitoring framework"
+      }
+    ]
+  }
