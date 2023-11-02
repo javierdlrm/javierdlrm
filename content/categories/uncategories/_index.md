@@ -1,5 +1,4 @@
 ---
-title: "Uncategories"
+title: "uncategories"
 draft: false
 ---
-Description

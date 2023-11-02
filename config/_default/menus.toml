@@ -1,31 +1,31 @@
 [[main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
+    identifier = "research"
+    name = "Research"
+    url = "/research"
     weight = 1
 
 [[main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts"
+    identifier = "writings"
+    name = "Writings"
+    url = "/writings"
     weight = 2
-    
-[[main]]
-    identifier = "events"
-    name = "Events"
-    url = "/events"
-    weight = 3
 
 [[main]]
     identifier = "projects"
     name = "Projects"
     url = "/projects"
-    weight = 4
+    weight = 3
 
 [[main]]
     identifier = "readings"
     name = "Readings"
     url = "/readings"
+    weight = 4
+
+[[main]]
+    identifier = "activities"
+    name = "Activites"
+    url = "/activities"
     weight = 5
 
 [[main]]
@@ -40,8 +40,13 @@
     url = "/tags"
     weight = 7
 
-
 # Social Media Configuration
+
+[[social]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/javierdlrm"
+    weight = 2
 
 [[social]]
     identifier = "twitter"
@@ -50,7 +55,7 @@
     weight = 1
 
 [[social]]
-    identifier = "github"
-    name = "GitHub"
-    url = "https://github.com/javierdlrm"
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/javierdlrm/"
     weight = 2

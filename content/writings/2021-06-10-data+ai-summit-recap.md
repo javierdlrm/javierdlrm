@@ -5,7 +5,7 @@ tags:
     - data+ai summit
     - feature store
 categories:
-    - recap
+    - post
 keywords:
     - feature engineering
     - feature store

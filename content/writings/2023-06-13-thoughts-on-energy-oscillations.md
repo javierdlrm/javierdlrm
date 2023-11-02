@@ -2,11 +2,9 @@
 title: Thoughts On Energy Oscillations
 date: 2023-06-13 08:00:00
 tags:
-    - aaa
+    - energy
 categories:
     - thought
-keywords:
-    - aaa
 ---
 18th June. After long time hearing and reading about the benefits of getting up early in the morning, I’m now starting to believe it was not all empty words in an intended motivational speech. Getting up at 05:45AM to go to the gym before starting my work shift has a lot of advantages compared with waking up right before commuting and postponing exercise for the late afternoon.
 

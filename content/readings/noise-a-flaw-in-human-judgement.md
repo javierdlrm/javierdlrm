@@ -4,7 +4,8 @@ date: 2021-06-10 08:00:00
 tags:
     - mind
 categories:
-    - summary
+    - book
+    - recompilation
 keywords:
     - mind
     - judgement

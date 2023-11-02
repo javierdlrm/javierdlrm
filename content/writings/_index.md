@@ -1,4 +1,4 @@
 ---
-title: "Post"
+title: "Writings"
 header: "" # Optional
 ---
