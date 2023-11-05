@@ -1,6 +1,7 @@
 ---
 title: Scalable Architecture for Automating Machine Learning Model Monitoring
 date: 2020-07-01 00:00:00
+downloadLink: http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1464577&dswid=-9436
 tags:
     - neurodegeneration
     - alzheimer
@@ -20,5 +21,3 @@ Last years, due to the advent of more sophisticated tools for exploratory data a
 ----
 
 Under de senaste åren har konceptet MLOps blivit alltmer populärt på grund av tillkomsten av mer sofistikerade verktyg för explorativ dataanalys, datahantering, modell-träning och model serving som tjänstgör i produktion. Som ett försök att föra DevOps processer till Machine Learning (ML)-livscykeln, siktar MLOps på mer automatisering i utförandet av mångfaldiga och repetitiva uppgifter längs cykeln samt på smidigare interoperabilitet mellan team och verktyg inblandade. I det här sammanhanget har de största molnleverantörerna byggt sina egna ML-plattformar [4, 34, 61], vilka erbjuds som tjänster i deras molnlösningar. Dessutom har flera ramar tagits fram för att lösa konkreta problem såsom datatestning, datamärkning, distribuerad träning eller tolkning av förutsägelse, och nya övervakningsmetoder har föreslagits [32, 33, 65]. Av alla stadier i ML-livscykeln förbises ofta modellövervakning trots att det är relevant. På senare tid har molnleverantörer presenterat sina egna verktyg att kunna användas inom sina plattformar [4, 61] medan arbetet pågår för att integrera befintliga ramverk [72] med lösningar för modellplatformer med öppen källkod [38]. De flesta av dessa ramverk är antingen byggda som ett tillägg till en befintlig plattform (dvs. saknar portabilitet), följer en schemalagd batchbearbetningsmetod med en lägsta hastighet av ett antal timmar, eller innebär begränsningar för vissa extremvärden och drivalgoritmer på grund av plattformsarkitekturens design där de är integrerade. I det här arbetet utformas och utvärderas en skalbar automatiserad molnbaserad arkitektur för MLmodellövervakning i en streaming-metod. Ett experiment som utförts på ett 7nodskluster med 250.000 förfrågningar vid olika samtidigheter visar maximala latenser på 5,9, 29,92 respektive 30,86 sekunder efter tid för förfrågningen för 75% av avståndsbaserad detektering av extremvärden, windowed statistics och distributionsbaserad datadriftdetektering, med hjälp av windows med 15 sekunders längd och 6 sekunders fördröjning av vattenstämpel.
-
-_[download here](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1464577&dswid=-9436)_
