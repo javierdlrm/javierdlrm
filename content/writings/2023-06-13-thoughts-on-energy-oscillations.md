@@ -5,7 +5,9 @@ tags:
     - energy
 categories:
     - thought
+draft: true
 ---
+
 18th June. After long time hearing and reading about the benefits of getting up early in the morning, I’m now starting to believe it was not all empty words in an intended motivational speech. Getting up at 05:45AM to go to the gym before starting my work shift has a lot of advantages compared with waking up right before commuting and postponing exercise for the late afternoon.
 
 The action of getting up itself is generally irritable unless I have had a damn good quality sleep. So it is a matter of discipline and commitment to take actions aimed at ensuring a good sleep. Nevertheless, once I force myself to dress quickly and leave home, my body begins to warm up, the blood flow kicks-off, oxygenating every still-dumb part of my body, and my cortisol level increase. It is then when I push these inner processes even further by lifting weights or performing any other mid-intense exercise at the gym. Once I’m back at home, my motivation and ambition has already peaked, and I feel ready to start the day. But you know what? it’s still 8AM!

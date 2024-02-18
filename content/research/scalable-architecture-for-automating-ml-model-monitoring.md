@@ -1,7 +1,7 @@
 ---
 title: Scalable Architecture for Automating Machine Learning Model Monitoring
 date: 2020-07-01 00:00:00
-downloadLink: http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1464577&dswid=-9436
+download_link: http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1464577&dswid=-9436
 tags:
     - neurodegeneration
     - alzheimer
@@ -12,6 +12,7 @@ keywords:
     - neurodegeneration
     - alzheimer
     - adni
+draft: false
 ---
 
 ### Abstract

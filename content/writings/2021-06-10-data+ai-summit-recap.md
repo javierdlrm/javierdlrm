@@ -9,6 +9,7 @@ categories:
 keywords:
     - feature engineering
     - feature store
+draft: false
 ---
 
 **Authors:** Davit Bzhalava, Javier de la Rúa Martínez

@@ -7,7 +7,9 @@ categories:
     - thought
 keywords:
     - productivity
+draft: true
 ---
+
 Time management is pain management. We always expect to find the definitive tool that will help as be extremely productive and solve our lives. However, we don’t expect to take responsibility on the effort and pain that we have to do for achieving that.
 
 Distraction can be seen as a pulling force that takes us from actually doing tasks that we know we have/need to do, and brings us to a comfort are of easiness and low cognitive effort.

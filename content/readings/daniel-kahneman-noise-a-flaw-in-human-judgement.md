@@ -9,6 +9,7 @@ categories:
 keywords:
     - mind
     - judgement
+draft: true
 ---
 
 **Author:** Daniel Kahneman

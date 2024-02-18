@@ -17,6 +17,7 @@ keywords:
     - online serving
     - feature engineering
     - streaming
+draft: false
 ---
 
 **Event:** [WEBINAR](https://www.linkedin.com/events/modelmonitoringwithkfservingand6807591151026151424/) | **Date:**  Tuesday, June 22th 2021

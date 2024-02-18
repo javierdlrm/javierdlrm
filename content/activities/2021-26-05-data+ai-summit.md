@@ -15,6 +15,7 @@ keywords:
     - monitoring
     - feature store
     - online serving
+draft: false
 ---
 
 **Event:** [DATA+AI SUMMIT 2021](https://databricks.com/session_na21/kfserving-model-monitoring-with-apache-spark-and-a-feature-store) | **Date:**  Wednesday, May 26th 2021

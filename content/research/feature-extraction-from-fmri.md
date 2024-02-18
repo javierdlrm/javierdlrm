@@ -1,7 +1,7 @@
 ---
 title: Feature extraction from fMRI
 date: 2018-06-01 00:00:00
-downloadLink: https://oa.upm.es/52698/
+download_link: https://oa.upm.es/52698/
 tags:
     - neurodegeneration
     - alzheimer
@@ -12,6 +12,7 @@ keywords:
     - neurodegeneration
     - alzheimer
     - adni
+draft: false
 ---
 
 ### Abstract
