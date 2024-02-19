@@ -1,5 +1,5 @@
 ---
-title: "Readings"
+title: "📚 Readings"
 header: "" # Optional
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "🤖 Projects"
 header: "" # Optional
 draft: false
 ---

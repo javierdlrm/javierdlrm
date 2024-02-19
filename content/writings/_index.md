@@ -1,5 +1,5 @@
 ---
-title: "Writings"
+title: "✍ Writings"
 header: "" # Optional
 draft: false
 ---

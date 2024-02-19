@@ -1,5 +1,5 @@
 ---
-title: "Activities"
+title: "🚶🏽‍➡️ Activities"
 header: ""
 draft: false
 ---

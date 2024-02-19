@@ -1,5 +1,5 @@
 ---
-title: "Tags"
+title: "🔖 Tags"
 draft: false
 type: taxonomies
 layout: "home"

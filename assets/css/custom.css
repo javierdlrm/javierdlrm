@@ -4,5 +4,19 @@
 */
 
 html {
-  font-size: 10pt;
+  font-size: 12pt;
+}
+
+#content .content blockquote {
+  padding-top: 1rem;
+  padding-bottom: 0.1rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  font-size: 1.15rem;
+  border-radius: 0;
+  border-width: 0 0 0 2px;
+
+  p {
+    margin-bottom: 1rem;
+  }
 }
