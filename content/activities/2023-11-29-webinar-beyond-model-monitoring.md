@@ -16,7 +16,7 @@ keywords:
 draft: false
 ---
 
-**Event:** [HOPSWORKS](https://www.hopsworks.ai/events/beyond-model-monitoring-how-to-monitor-ml-features-on-hopsworks) | **Date:**  Wednesday, November 29th 2023
+**Webinar:** [HOPSWORKS](https://www.hopsworks.ai/events/beyond-model-monitoring-how-to-monitor-ml-features-on-hopsworks) | **Date:**  Wednesday, November 29th 2023
 
 # Abstract
 
