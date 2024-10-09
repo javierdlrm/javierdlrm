@@ -6,14 +6,15 @@ tags:
     - neurodegeneration
     - alzheimer
 categories:
-    - thesis
-    - research
+    - neurodegeneration
 keywords:
     - neurodegeneration
     - alzheimer
     - adni
 draft: false
 ---
+
+[Universidad Politécnica de Madrid](https://fi.upm.es/) | **Date:**  Friday, June 1st 2018
 
 ### Abstract
 

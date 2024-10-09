@@ -10,11 +10,11 @@
     url = "/writings"
     weight = 2
 
-[[main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects"
-    weight = 3
+# [[main]]
+#     identifier = "projects"
+#     name = "Projects"
+#     url = "/projects"
+#     weight = 3
 
 [[main]]
     identifier = "readings"

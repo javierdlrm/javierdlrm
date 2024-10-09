@@ -3,17 +3,23 @@ title: Scalable Architecture for Automating Machine Learning Model Monitoring
 date: 2020-07-01 00:00:00
 download_link: http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1464577&dswid=-9436
 tags:
-    - neurodegeneration
-    - alzheimer
+    - monitoring
+    - ml-systems
+    - streaming
+    - drift-detection
 categories:
-    - thesis
-    - research
+    - monitoring
+    - ml-systems
+    - streaming
+    - drift-detection
 keywords:
-    - neurodegeneration
-    - alzheimer
-    - adni
+    - monitoring
+    - streaming
+    - drift-detection
 draft: false
 ---
+
+[KTH Royal Institute of Technology](https://www.kth.se/) | **Date:**  Wednesday, July 1st 2020
 
 ### Abstract
 

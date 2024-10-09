@@ -4,4 +4,4 @@ header: "" # Optional
 draft: false
 ---
 
-Gathering main insights of recent readings
+A collection of insights from recent readings

@@ -1,7 +1,7 @@
 ---
 title: "🤖 Projects"
 header: "" # Optional
-draft: false
+draft: true
 ---
 
 Working on something...
